@@ -18,7 +18,7 @@ var achievement1, achievement2;
 var chapter1, chapter2;
 
 var init = () => {
-    currency = theory.createCurrency("ඞ", "ඞ");
+    currency_ඞ = theory.createCurrency("ඞ", "ඞ");
 
     ///////////////////
     // Regular Upgrades
